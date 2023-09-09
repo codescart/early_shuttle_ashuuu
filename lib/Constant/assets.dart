@@ -1,0 +1,40 @@
+
+class Graphics{
+  static const appLogo = "assets/ic_luncher.png";
+  static const fromTo = "assets/fromto.png";
+  static const orangeRound = "assets/circle.png";
+  static const bluePin = "assets/mapicon1.png";
+  static const busFace = "assets/bus5.png";
+  static const routes = "assets/routes.png";
+  static const mapIcon = "assets/map2.png";
+  static const appIcon= "assets/app_icon.png";
+  static const cupon= "assets/ticketPass.png";
+  static const replaceCupon= "assets/passRefresh.png";
+  static const qrscan= "assets/qrscan.png";
+  static const paytm= "assets/paytmImg.png";
+  static const seaticon= "assets/seatIcon.png";
+  static const loginImg= "assets/loginImg.png";
+  static const verifyImg= "assets/verifyimg.png";
+  static const registerImg= "assets/registerimg.png";
+  static const whatsappIcon= "assets/whatsappIcon.png";
+  static const level1= "assets/level1.jpg";
+  static const level2= "assets/level2.png";
+  static const level3= "assets/level3.png";
+  static const level4= "assets/level4.jpg";
+  static const level5= "assets/level5.png";
+  static const allstops= "assets/allstops.png";
+  static const loading= "assets/loading.gif";
+  static const noData= "assets/noDatafound.gif";
+  static const nonotify= "assets/nonotification.jpg";
+  static const genderIcon= "assets/gender.png";
+  static const dummyProfile= "assets/male3.png";
+  static const deleteLogo= "assets/deletegif.gif";
+  static const sendImg= "assets/sendimg.gif";
+  // static const emergencySoS= "assets/HelpSection/emergencySoS.png";
+  static const emergencySoS= "assets/emerrgency.png";
+  // static const emergencySoS= "assets/emer.png";
+  static const phonepeImage= "assets/phonepe.png";
+  static const paytmImage= "assets/patym.jpg";
+  static const emailVerifyFailed= "assets/verifyFailed.png";
+  static const changeRoute= "assets/changeRoute.png";
+}
